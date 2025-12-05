@@ -1,3 +1,7 @@
+Forked from @mykyle1 as I believe that project may have been abandonded.   I submitted pull requests that went unanswered so I opted to fork entirely. 
+
+The only changes I have made are fixes to the CSS for aligning the icons properly and updating to the new API from OpenWeather. See commits for details. 
+
 ## MMM-BMW-OW
 
 **Bugger My Weather**  Now using the free OpenWeather api
@@ -57,3 +61,4 @@
 * MMM-BMW-DS still works if you have a Darksky api key (These will expire eventually)
 
 * MMM-BMW-CC requires a free ClimaCell api key
+
